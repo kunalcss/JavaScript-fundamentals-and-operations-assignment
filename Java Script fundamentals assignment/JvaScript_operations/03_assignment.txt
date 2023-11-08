@@ -1,0 +1,56 @@
+Differentiate between unary, binary, and ternary operators in JavaScript. Give examples of each.
+
+Solution-->
+
+Unary Operators:
+Unary operators are operators that act on a single operand, meaning they work with only one value or variable.
+
+Examples of Unary Operators:
+
+Increment (++) and Decrement (--):
+let counter = 10;
+
+// Increment operator (++)
+counter++; // Adds 1 to the value: Result: 11
+
+// Decrement operator (--)
+counter--; // Subtracts 1 from the value: Result: 10
+Binary Operators:
+Binary operators work with two operands, performing an operation that involves two values or variables.
+
+Examples of Binary Operators:
+
+Addition (+) and Subtraction (-):
+
+let a = 10;
+let b = 5;
+
+// Addition operator
+let sum = a + b; // Result: 15
+
+// Subtraction operator
+let difference = a - b; // Result: 5
+Multiplication (*), Division (/), and Modulus (%):
+
+let x = 12;
+let y = 3;
+
+// Multiplication operator
+let product = x * y; // Result: 36
+
+// Division operator
+let quotient = x / y; // Result: 4
+
+// Modulus operator (remainder of division)
+let remainder = x % y; // Result: 0
+
+
+Ternary Operator:
+The ternary operator is unique in that it is the only operator that takes three operands: a condition, a value returned if the condition is true, and a value returned if the condition is false.
+
+Example of Ternary Operator
+let age = 20;
+
+// Ternary operator (? :)
+let message = (age < 18) ? 'Too young to vote' : 'Old enough to vote';
+console.log(message); // Output: 'Old enough to vote'

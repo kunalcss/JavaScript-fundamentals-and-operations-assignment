@@ -1,0 +1,8 @@
+Write a Javascript program to calculate the Body Mass Index (BMI) using the formula BMI = weight (kg)/ height * height.
+
+Solution-->
+
+let height = 30 ;
+let weight = 80;
+
+console.log(80/30)

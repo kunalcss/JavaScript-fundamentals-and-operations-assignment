@@ -1,0 +1,11 @@
+1. Explain What JvaScript is and its role in web development.
+
+Solution -->
+JavaScript -->JavaScript is a versatile programming language primarily used in web development to create interactive and dynamic elements on web pages. It was initially created to make web pages more interactive and responsive by allowing client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the content that is displayed.
+
+Role of JvaScript-->
+1.Enhansing user interactivity.
+2.Manupulating HTML and CSS.
+3.Browser Control.
+4.Frameworks and Libraries.
+5.Server-Side Development.
